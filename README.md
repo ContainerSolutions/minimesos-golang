@@ -23,5 +23,8 @@ go get gopkg.in/fsouza/go-dockerclient.v0
 
 ```
 $ go run main.go
+Created Mesos cluster. API running at port 9999
+Started Mesos cluster.
+Destroyed Mesos cluster.
 
 ```
